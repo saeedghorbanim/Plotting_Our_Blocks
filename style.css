@@ -9,7 +9,7 @@
     background-color: green;
     /* put bottom margin on this */
     margin-bottom: 18px;
-    padding: 4px;
+    padding: 0px;
 }
 .side-nav {
     height: 300px;
@@ -19,8 +19,8 @@
     vertical-align: top;
 }
 .main {
-    height: 300px;
-    width: 545px;
+    height: 396px;
+    width: 680px;
     background-color: red;
     margin-left: 23px;
     padding: 30px;
@@ -39,7 +39,7 @@
 }
 #advertisement {
     height: 120px;
-    width: 660px;
+    width: 624px;
     background-color: purple;
     margin-top: 15px;
 }
